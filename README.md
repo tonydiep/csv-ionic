@@ -1,4 +1,4 @@
-# CSV+Ionic
+# CSV-Ionic
 
 Credit for this code goes to [devdactic](https://devdactic.com/csv-data-ionic/).
 
